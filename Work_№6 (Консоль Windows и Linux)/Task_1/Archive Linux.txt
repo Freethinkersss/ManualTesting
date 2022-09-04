@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir Bogdanovich
+cd Bogdanovich
+echo AcademITSchool > 1.txt
+cp 1.txt 2.txt
+cd ..
+zip -r -m Bogdanovich.zip Bogdanovich

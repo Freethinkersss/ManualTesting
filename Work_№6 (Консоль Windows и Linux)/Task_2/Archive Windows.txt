@@ -1,0 +1,8 @@
+SETLOCAL
+SET archivator="C:\Program Files\WinRAR\WinRar.exe"
+md Bogdanovich
+cd Bogdanovich
+echo Bogdanovich Vladislav Yurievich > 1.txt
+copy 1.txt 2.txt
+cd ..
+%archivator% a -r -df Bogdanovich.zip Bogdanovich

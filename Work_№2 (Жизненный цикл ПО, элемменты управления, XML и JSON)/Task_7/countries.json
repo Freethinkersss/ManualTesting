@@ -1,0 +1,73 @@
+{
+  "countries": [
+    {
+      "titleInEnglish": "USA",
+      "titleInRussian": "США",
+      "countryCode": "US",
+      "currencyCode": 840,
+      "cities": [
+        {
+          "titleInEnglish": "Washington",
+          "titleInRussian": "Вашингтон",
+          "population": 5400000
+        },
+        {
+          "titleInEnglish": "Denver",
+          "titleInRussian": "Денвер",
+          "population": 2700000
+        },
+        {
+          "titleInEnglish": "Los Angeles",
+          "titleInRussian": "Лос Анжелес",
+          "population": 17800000
+        }
+      ]
+    },
+    {
+      "titleInEnglish": "France",
+      "titleInRussian": "Франция",
+      "countryCode": "FR",
+      "currencyCode": 250,
+      "cities": [
+        {
+          "titleInEnglish": "Strasbourg",
+          "titleInRussian": "Страсбург",
+          "population": 275000
+        },
+        {
+          "titleInEnglish": "Paris",
+          "titleInRussian": "Париж",
+          "population": 2150000
+        },
+        {
+          "titleInEnglish": "Brest",
+          "titleInRussian": "Брест",
+          "population": 140000
+        }
+      ]
+    },
+    {
+      "titleInEnglish": "China",
+      "titleInRussian": "Китай",
+      "countryCode": "CN",
+      "currencyCode": 156,
+      "cities": [
+        {
+          "titleInEnglish": "Shanghai",
+          "titleInRussian": "Шанхай",
+          "population": 24870000
+        },
+        {
+          "titleInEnglish": "Golmud",
+          "titleInRussian": "Голмуд",
+          "population": 215000
+        },
+        {
+          "titleInEnglish": "Kashgar",
+          "titleInRussian": "Кашгар",
+          "population": 506000
+        }
+      ]
+    }
+  ]
+}
